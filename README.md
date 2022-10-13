@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bjoernQ&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sunwenming&show_icons=true)
 
 <!--
 **sunwenming/sunwenming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
