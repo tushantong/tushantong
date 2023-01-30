@@ -2,6 +2,8 @@
 
 I'm sunwenming.
 
+![Visitor's Count](https://profile-counter.glitch.me/sunwenming/count.svg)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sunwenming&show_icons=true)
 
 <!--
